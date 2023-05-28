@@ -1,7 +1,7 @@
 # CalendarIntegration
 
 ## Description
-ConvinTest is a Django-based web application that integrates with Google Calendar to perform certain tasks.
+CalendarIntegration is a Django-based web application that integrates with Google Calendar to perform certain tasks.
 
 ## Setup Instructions
 
